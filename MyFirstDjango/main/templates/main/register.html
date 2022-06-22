@@ -1,0 +1,11 @@
+{% extends "main/base.html" %}
+
+{% block content %}
+<form class="centered" method="POST">
+    <span>{{ error }}</span>
+    {% csrf_token %}
+    {{ form.username }} <br>
+    {{ form.password }} <br>
+    <button class="mt-2 btn btn-primary" type="submit">Register</button>
+</form>
+{% endblock %}
