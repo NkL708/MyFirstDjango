@@ -5,6 +5,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="tuple.readlines" />
+          <option value="django.db.models.fields.CharField.__add__" />
         </list>
       </option>
     </inspection_tool>

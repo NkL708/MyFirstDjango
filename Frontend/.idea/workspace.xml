@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5fdf365-9558-4f6f-84c1-5e203a200dd9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/MyFirstDjango/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/MyFirstDjango/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/MyFirstDjango/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/MyFirstDjango/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/MyFirstDjango/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/main/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/main/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/main/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/main/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/main/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/main/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/main/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/main/templates/main/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/main/templates/main/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/main/templates/main/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/main/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/main/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/main/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Frontend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/MyFirstDjango.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstDjango/MyFirstDjango/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstDjango/MyFirstDjango/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstDjango/MyFirstDjango/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstDjango/MyFirstDjango/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstDjango/MyFirstDjango/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstDjango/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstDjango/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstDjango/main/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstDjango/main/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstDjango/main/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstDjango/main/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstDjango/main/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstDjango/main/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstDjango/main/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstDjango/main/static/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstDjango/main/templates/main/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstDjango/main/templates/main/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstDjango/main/templates/main/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstDjango/main/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstDjango/main/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstDjango/main/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstDjango/manage.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2B0yIwXq8nYKH3KifYtSgv5y6ea" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nklns/PycharmProjects/MyFirstDjango/Frontend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\nklns\\PycharmProjects\\MyFirstDjango\\Frontend\\my-app\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5fdf365-9558-4f6f-84c1-5e203a200dd9" name="Changes" comment="" />
+      <created>1656057222061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656057222061</updated>
+      <workItem from="1656057223458" duration="519000" />
+      <workItem from="1656057822355" duration="62000" />
+      <workItem from="1656057905698" duration="1076000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
