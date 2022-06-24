@@ -1,5 +1,4 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -108,7 +107,7 @@ ENV/
 /node_modules
 
 # IDEs and editors
-.idea/
+/.idea
 .project
 .classpath
 .c9/
@@ -137,5 +136,5 @@ testem.log
 /e2e/*.map
 
 # System Files
-Thumbs.db
 .DS_Store
+Thumbs.db
