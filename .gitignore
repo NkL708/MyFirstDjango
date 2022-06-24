@@ -1,13 +1,4 @@
-.DS_Store
-client/node_modules
-client/e2e
-client/bootstrap-overview
-
-
-backend/bin
-backend/include
-backend/lib
-
+# See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -108,8 +99,6 @@ ENV/
 # mkdocs documentation
 /site
 
-# See http://help.github.com/ignore-files/ for more about ignoring files.
-
 # compiled output
 /dist
 /tmp
@@ -119,7 +108,7 @@ ENV/
 /node_modules
 
 # IDEs and editors
-/.idea
+.idea/
 .project
 .classpath
 .c9/
@@ -148,6 +137,5 @@ testem.log
 /e2e/*.map
 
 # System Files
-.DS_Store
 Thumbs.db
-
+.DS_Store
