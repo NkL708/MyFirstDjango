@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { UserService } from "../services/user.service";
+import { RestService } from "../services/rest.service";
 
 @Component({
   selector: 'app-main',
@@ -9,10 +9,10 @@ import { UserService } from "../services/user.service";
 export class MainComponent implements OnInit {
   users: any
 
-  constructor(private service: UserService) { }
+  constructor(private restService: RestService) { }
 
   ngOnInit(): void {
-    this.service.getUsers().subscribe(response => {
+    this.restService.getUsers().subscribe(response => {
       this.users = response;
     })
   }
